@@ -1,0 +1,9 @@
+/* container {
+    display: flex;
+    flex-direction: row;
+} */
+
+.login-form {
+    display: flex;
+    align-items: center;
+}
