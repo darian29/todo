@@ -5,6 +5,9 @@
 
 #card-display {
   margin: 25px;
+  width: 150px;
+  height: 150px;
+  border-radius: 20px;
 }
 
 .plus-sign {
