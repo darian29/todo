@@ -1,0 +1,22 @@
+.to-do-list {
+  text-align: center;
+  margin: 25px;
+}
+
+#card-display {
+  margin: 25px;
+  width: 150px;
+  height: 150px;
+  border-radius: 20px;
+}
+
+.plus-sign {
+  margin-top: 25px;
+  text-align: center;
+}
+
+#todo-item {
+  margin-top: 25px;
+  font-size: 10px;
+  text-align: center;
+}
